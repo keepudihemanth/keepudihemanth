@@ -1,4 +1,4 @@
-<h1 align="center" style="color: #2c3e50; font-family: 'Arial', sans-serif; font-weight: 700;">Hi 👋, I'm Hemanth</h1>
+<h1 align="center" style="color: #2c3e50; font-family: 'Arial', sans-serif; font-weight: 700;">HOLA 👋, I'm Hemanth</h1>
 <h3 align="center" style="color: #34495e; font-family: 'Arial', sans-serif; font-weight: 400;">A passionate Tech Learner from India</h3>
 
 <div align="center" style="margin: 20px 0;">
