@@ -5,7 +5,11 @@
   <img src="https://komarev.com/ghpvc/?username=keepudihemanth&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
 </div>
 
-
+<div align="center" style="margin: 20px 0;">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=keepudihemanth&theme=onedark&margin-w=15&margin-h=15" alt="Trophies" style="max-width: 100%; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
+  </a>
+</div>
 
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
   <div style="background: #f1f2f6; padding: 15px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); transition: transform 0.3s ease;">
