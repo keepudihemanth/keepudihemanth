@@ -88,6 +88,5 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=keepudihemanth&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats"/>
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=keepudihemanth&layout=compact&langs_count=5&theme=transparent" height="150" alt="Top Languages"/>
 </div>
