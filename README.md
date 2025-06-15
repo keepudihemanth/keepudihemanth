@@ -21,8 +21,10 @@
   </div>
 </div>
 
+
+
 <h3 align="center" style="color: #2c3e50; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin-top: 30px;">
-  🌐 Connect with Me
+   Connect with Me
 </h3>
 <p align="center" style="margin-top: 10px; font-family: Arial, sans-serif; color: #555;">
   <strong>Twitter</strong> &nbsp;|&nbsp;
@@ -46,9 +48,11 @@
   </a>
 </div>
 
+<br>
+<br>
 
-<h3 align="center" style="color: #2c3e50; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin-top: 30px;">
-  🚀 Languages & Tools
+<h3 align="left" style="color: #2c3e50; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin-top: 30px;">
+   Languages & Tools Used:
 </h3>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; padding: 20px;">
   <a href="https://www.w3schools.com/css/" target="_blank">
@@ -85,7 +89,8 @@
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="60" height="60" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
 </div>
-
+<br>
+<br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=keepudihemanth&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=keepudihemanth&layout=compact&langs_count=5&theme=transparent" height="150" alt="Top Languages"/>
