@@ -1,5 +1,6 @@
 <h1 align="center" style="color: #2c3e50; font-family: 'Arial', sans-serif; font-weight: 700;">HOLA 👋, I'm Hemanth</h1>
-<h3 align="center" style="color: #34495e; font-family: 'Arial', sans-serif; font-weight: 400;">A passionate Tech Learner from India</h3>
+<h3 align="left" style="color: #34495e; font-family: 'Arial', sans-serif; font-weight: 400;">A passionate Tech Learner from India</h3>
+
 
 <div align="center" style="margin: 20px 0;">
   <img src="https://komarev.com/ghpvc/?username=keepudihemanth&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
