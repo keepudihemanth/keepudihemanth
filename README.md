@@ -6,13 +6,6 @@
   <img src="https://komarev.com/ghpvc/?username=keepudihemanth&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
 </div>
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 30px 0;">
-
-  <div style="background: #f1f2f6; padding: 20px 25px; border-radius: 12px; box-shadow: 0 6px 12px rgba(0,0,0,0.1); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-    <p style="margin: 0; color: #2c3e50; font-size: 16px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-      👨‍💻 All my projects are available at 
-      <a href="https://keepudihemanth.github.io/Portfolio/" target="_blank" style="color: #0e75b6; text-decoration: none; font-weight: 600;">
-        My Portfolio</a></p>
-  </div>
   
   <div style="background: #f1f2f6; padding: 20px 25px; border-radius: 12px; box-shadow: 0 6px 12px rgba(0,0,0,0.1); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
     <p style="margin: 0; color: #2c3e50; font-size: 16px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
