@@ -2,9 +2,7 @@
 <h3 align="left" style="color: #34495e; font-family: 'Arial', sans-serif; font-weight: 400;">A passionate Tech Learner from India</h3>
 <h3 align="left" style="color: #34495e; font-family: 'Arial', sans-serif; font-weight: 400;">Lets yap about Tech; XD</h3>
 
-<div align="center" style="margin: 20px 0;">
-  <img src="https://komarev.com/ghpvc/?username=keepudihemanth&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
-</div>
+
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 30px 0;">
   
   <div style="background: #f1f2f6; padding: 20px 25px; border-radius: 12px; box-shadow: 0 6px 12px rgba(0,0,0,0.1); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
