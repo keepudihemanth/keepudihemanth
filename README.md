@@ -17,7 +17,7 @@
   <strong>Twitter</strong> &nbsp;|&nbsp;
   <strong>LinkedIn</strong> &nbsp;|&nbsp;
   <strong>Kaggle</strong> &nbsp;|&nbsp;
-  <strong>Instagram</strong>
+ 
 </p>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; padding: 10px;">
@@ -30,9 +30,7 @@
   <a href="https://kaggle.com/hemanthkeepudi" target="_blank" style="transition: transform 0.3s ease;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" width="45" height="45" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
-  <a href="https://instagram.com/k__hemanth" target="_blank" style="transition: transform 0.3s ease;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="45" height="45" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'"/>
-  </a>
+  
 </div>
 
 <br>
