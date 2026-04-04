@@ -74,3 +74,11 @@
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="60" height="60" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
 </div>
+<h3 align="left" style="color: #2c3e50; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin-top: 30px;">
+   Github Stats:
+</h3>
+<p align="center">
+  
+  <img src="https://streak-stats.demolab.com?user=keepudihemanth&theme=tokyonight&hide_border=true" />
+</p>
+
