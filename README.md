@@ -45,11 +45,3 @@
   <img src="https://skillicons.dev/icons?i=css,figma,git,html,java,js,mysql,nodejs,python,react,spring" />
 </p>
 </div>
-<h3 align="left" style="color: #2c3e50; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin-top: 30px;">
-   Github Stats:
-</h3>
-<p align="center">
-  
-  <img src="https://streak-stats.demolab.com?user=keepudihemanth&theme=tokyonight&hide_border=true" />
-</p>
-
