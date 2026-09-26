@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=HEMANTH&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Learn%20%7C%20%20%7C%20Build&descAlignY=58&descSize=20" width="100%"/>
+  <img src="https://my-capsule-phi.vercel.app/api?text=Hemanth&subtitle=Learn|%20|Build&fadeDuration=5" width="100%"/>
 </p>
 
 <h2 align="center">
@@ -70,8 +70,6 @@
 </p>
 
 <p align="center">
-<b>"Build. Break. Learn. Repeat."</b>
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+    <img src="https://my-capsule-phi.vercel.app/api?text=Learn.%20Build&subtitle=Break.%20Repeat&particleCount=55" width="100%"/>
+  
 </p>
